@@ -1,0 +1,2 @@
+# charawy
+Script vps full
